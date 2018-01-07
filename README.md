@@ -59,3 +59,6 @@ GalMenu.js 有 2 个可用的配置参数
 
 ## 演示地址：
 [https://thkira.com/key.html](http://thkira.com/key.html "仿Key游戏风格jQuery右键菜单") 
+
+## LICENSE
+[MIT @ LanlingKira](./LICENSE)
